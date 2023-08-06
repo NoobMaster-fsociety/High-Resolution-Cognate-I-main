@@ -1,0 +1,82 @@
+
+.featuredItem {
+    flex: 0;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.75);
+    padding: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: white;
+    margin: 30px;
+    align-items: center;
+}
+
+.widget {
+    flex: 0;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: white;
+    margin: 30px;
+    width: 55%;
+}
+
+
+.featuredTitle{
+    font-size: 40px;
+    font-weight:bold;
+    color: green
+}
+.featuredTitleperoBlack{
+    font-size: 40px;
+    font-weight:bold;
+    color: rgb(7, 8, 7)
+}
+
+.featuredPending{
+    font-size: 40px;
+    font-weight: bold;
+    color: red
+}
+
+
+.featuredMoneyContainer{
+ 
+    align-items: center;
+    
+}
+
+.featuredMoney{
+
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.featuredPendingMoney {
+    font-size: 50px;
+    font-weight: 600;
+    color: red
+}
+
+.featuredMoneyRate {
+    font-size: 50px;
+    font-weight: 600;
+    color: lightgray
+}
+
+.featuredIcon{
+    font-size: 14px;
+    margin-left: 5px;
+    color: green;
+}
+
+.featuredIcon.negative{
+    color: red;
+}
+
+.featuredSub {
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}

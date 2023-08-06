@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\Components",
+    "\\src\\pages\\Components\\invoice",
+    "\\src\\pages\\Components\\invoice\\products",
+    "\\src\\pages\\Components\\widget"
+  ],
+  "SelectedNode": "\\src\\pages\\Components\\invoice\\products\\Add_item.jsx",
+  "PreviewInSolutionExplorer": false
+}
